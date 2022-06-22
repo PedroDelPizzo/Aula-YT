@@ -3,3 +3,5 @@ Novo arquivo v1
 Edição feita pelo Git Hub
 
 Edição feita pelo PC
+
+Mais uma edição feita pelo PC, testando  no terminal!!
